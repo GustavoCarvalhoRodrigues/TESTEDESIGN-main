@@ -1,0 +1,22 @@
+@media (min-width:768px) {
+    .container {
+        width: 620px
+    }
+}
+
+@media (min-width:992px) {
+    .container {
+        width: 820px
+    }
+}
+
+@media (min-width:1200px) {
+    .container {
+        width: 1170px
+    }
+}
+
+::-webkit-scrollbar {
+    width: 0;
+    height: 0;
+}
